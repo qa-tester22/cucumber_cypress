@@ -1,0 +1,30 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "cucumber_cypress_bdd_js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qa-tester22/cucumber_cypress.git"
+  },
+  "keywords": [
+    "cucumber",
+    "cypress",
+    "js",
+    "bdd",
+    "autotest",
+    "qa"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qa-tester22/cucumber_cypress/issues"
+  },
+  "homepage": "https://github.com/qa-tester22/cucumber_cypress#readme",
+  "dependencies": {
+    "cypress": "^13.13.1"
+  }
+}
